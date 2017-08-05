@@ -1,6 +1,7 @@
+# 3 - Shopping list
+
 # Shopping-list
 
-#3 - Shopping list
 
 Do you know Listonic? So make let's something similar.
 
